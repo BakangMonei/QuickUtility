@@ -59,9 +59,8 @@ The Monkey Tool was used to perform stress testing on the app by simulating rand
 
 ### Test command:
 
-    ```
+    ```bash
     adb shell monkey -p com.madassignment.quickutility -v 500
-    ```
 
 ## Code Inspection
 The Lint Tool was used for code inspection to check for performance issues, deprecated APIs, accessibility concerns, and unused resources. The app passed all tests with minimal warnings.
