@@ -59,7 +59,6 @@ The Monkey Tool was used to perform stress testing on the app by simulating rand
 
 ### Test command:
 
-    ```bash
     adb shell monkey -p com.madassignment.quickutility -v 500
 
 ## Code Inspection
